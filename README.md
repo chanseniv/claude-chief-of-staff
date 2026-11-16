@@ -17,6 +17,8 @@ The core of this is installable in one command. In Claude Code:
 
 Restart Claude Code, then run `/chief-of-staff:setup`. It interviews you and scaffolds your own persistent memory + daily-brief system. No coding required. The plugin lives in [`plugins/chief-of-staff/`](plugins/chief-of-staff/), and everything it creates is plain Markdown on your machine.
 
+**For the home:** this fork adds [`household-chief-of-staff`](plugins/household-chief-of-staff/), a chief of staff for family life (kids, partner, pets, routines) built for a parent with ADHD, anxiety, and/or depression. Install with `/plugin install household-chief-of-staff@chief-of-staff`, then run `/household-chief-of-staff:setup`.
+
 ---
 
 ## The Three Layers

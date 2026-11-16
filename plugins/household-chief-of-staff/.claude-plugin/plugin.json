@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "household-chief-of-staff",
+  "description": "A chief of staff for a busy family home, built for a parent with ADHD, anxiety, or depression. It holds the household's working memory (kids, partner, pets, routines, appointments, forms) so you don't have to. It plans in small steps, has a low-energy mode, never shames, and keeps you the one who decides.",
+  "version": "0.1.0",
+  "author": {
+    "name": "chanseniv"
+  },
+  "keywords": [
+    "household",
+    "family",
+    "parenting",
+    "adhd",
+    "executive-function",
+    "pets",
+    "chief-of-staff",
+    "routines"
+  ]
+}
